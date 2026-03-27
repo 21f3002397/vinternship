@@ -63,7 +63,7 @@ By the end of this tutorial, you will:
 
 **A. Defining Dynamic Routes with Parameters**
 
--   In React Router, you define parameters in the path using  `:paramName`:
+-   In React Router, you define parameters in the path using  `:paramName`
 
 ```js
 <Route path="/patients/:patientId/appointments/:appointmentId" element={<AppointmentDetails />} />
